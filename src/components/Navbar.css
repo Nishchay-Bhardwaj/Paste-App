@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    width: 100vw;
+    height: 3rem;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+}
+NavLink{
+    font-size: 9rem;
+    color: antiquewhite;
+}
